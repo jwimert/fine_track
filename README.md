@@ -20,13 +20,15 @@ within run_atl07_segs.py, the following file paths and names are hardcoded in:
 
 If no times are entered, the first second of ATL07 data will be processed. If one of t0/t1 is missing, the start/end time is used.
 
+Directory sample_output contains sample output.
+
 A folder with test data is available on the iceproc6 machine:
 /home/jwimert/finetrack_python
 
-ATL03_20190317122653_12070212_006_02.h5
-ATL07-02_20190317111321_12070201_006_02.h5
-cal19_dead_time.npy
-cal19.npy
-cal19_strength.npy
-cal19_width.npy
-sea_ice_waveforms_202308224.h5
+- ATL03_20190317122653_12070212_006_02.h5
+- ATL07-02_20190317111321_12070201_006_02.h5
+- cal19_dead_time.npy
+- cal19.npy
+- cal19_strength.npy
+- cal19_width.npy
+- sea_ice_waveforms_202308224.h5
