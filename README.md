@@ -12,6 +12,12 @@ run_atl07_segs.py has optional input parameters:
 - t1: end time for processing (delta time)
 - spec_filter: perform specular shot filter
 
+within run_atl07_segs.py, the following file paths and names are hardcoded in:
+- ATL03
+- ATL07
+- expected waveform table
+- cal19 data
+
 If no times are entered, the first second of ATL07 data will be processed. If one of t0/t1 is missing, the start/end time is used.
 
 A folder with test data is available on the iceproc6 machine:
