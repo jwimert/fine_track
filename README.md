@@ -8,9 +8,9 @@ There are two main routines included:
 run_atl07_segs.py requires and ATL07 and corresponding ATL03 to process. Additionally, the expected waveform table and cal19 data is also needed. The expected waveform table can be created using the create_wf_table with the desired ATL03. Cal19 data can be read and stored from an ATL03.
 
 run_atl07_segs.py has optional input parameters:
--t0: start time for processing (delta time)
--t1: end time for processing (delta time)
--spec_filter: perform specular shot filter
+- t0: start time for processing (delta time)
+- t1: end time for processing (delta time)
+- spec_filter: perform specular shot filter
 
 If no times are entered, the first second of ATL07 data will be processed. If one of t0/t1 is missing, the start/end time is used.
 
