@@ -453,8 +453,8 @@ for i_test in np.arange(atl07_i0, atl07_i1+1):
           ATL07_lpe[i_test] - ATL07_mss[i_test] - ATL07_dynib[i_test] - ATL07_oc[i_test]
 
 #
-        diff = (ATL07_h_corr[i_test] - ATL07_htcorr_skew[i_test]) - h_surf_corr
-        print(i_test, diff)
+#         diff = (ATL07_h_corr[i_test] - ATL07_htcorr_skew[i_test]) - h_surf_corr
+#         print(i_test, diff)
 
 #
 # Save output data
