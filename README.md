@@ -22,3 +22,11 @@ If no times are entered, the first second of ATL07 data will be processed. If on
 
 A folder with test data is available on the iceproc6 machine:
 /home/jwimert/finetrack_python
+
+ATL03_20190317122653_12070212_006_02.h5
+ATL07-02_20190317111321_12070201_006_02.h5
+cal19_dead_time.npy
+cal19.npy
+cal19_strength.npy
+cal19_width.npy
+sea_ice_waveforms_202308224.h5
