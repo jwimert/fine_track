@@ -32,3 +32,10 @@ A folder with test data is available on the iceproc6 machine:
 - cal19_strength.npy
 - cal19_width.npy
 - sea_ice_waveforms_202308224.h5
+
+
+Sample output:
+
+
+![run_atl07_segs_summary](https://github.com/jwimert/fine_track/assets/61554992/c48c43f5-26c1-4e4a-b25a-c3e205050202)
+
