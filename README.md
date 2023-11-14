@@ -12,6 +12,7 @@ run_atl07_segs.py has optional input parameters:
 - t1: end time for processing (delta time)
 - b: beam selection (default all)
 - spec_filter: perform specular shot filter
+- good_segs_only: only compute finetrack segments for ATL07 segments with quality fit = 1,2,3
 - debug_plots: provide plots for each finetrack segment
 - csv_file: plot summary csv file of finetrack height segments
 
