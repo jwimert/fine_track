@@ -23,6 +23,11 @@ within run_atl07_segs.py, the following file paths and names are hardcoded in:
 
 If no times are entered, the first second of ATL07 data will be processed. If one of t0/t1 is missing, the start/end time is used.
 
+Sample execution:
+
+python run_atl07_segs.py -t0 44066082.4 -t1 44066083.2 -spec_filter 'y'
+
+
 Directory sample_output contains sample output.
 
 A folder with test data is available on the iceproc6 machine:
